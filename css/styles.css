@@ -10159,3 +10159,18 @@ header.masthead h1 {
   background-size:1600px 900px;
 
 }
+
+#eight{
+  background-image: url("../assets/blackbord.jpg");
+  background-repeat: no-repeat;
+  background-size:1600px 900px;
+
+}
+
+
+#nine{
+  background-image: url("../assets/end.jpg");
+  background-repeat: no-repeat;
+  background-size:1600px 900px;
+
+}
