@@ -10127,14 +10127,14 @@ header.masthead h1 {
 #three{
   background-image: url("../assets/sky.jpg");
   background-repeat: no-repeat;
-  background-size:1600px 700px;
+  background-size:1600px 900px;
 
 }
 
 #four{
   background-image: url("../assets/color.jpg");
   background-repeat: no-repeat;
-  background-size:1600px 700px;
+  background-size:1600px 900px;
 
 }
 
@@ -10156,7 +10156,7 @@ header.masthead h1 {
 #seven{
   background-image: url("../assets/dark.jpg");
   background-repeat: no-repeat;
-  background-size:1600px 900px;
+  background-size:1600px 1500px;
 
 }
 
