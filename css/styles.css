@@ -54,9 +54,9 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
-article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+/* article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
-}
+} */
 
 body {
   margin: 0;
@@ -10116,4 +10116,46 @@ header.masthead h1 {
 
 .text-white-75 {
   color: rgba(255, 255, 255, 0.75);
+}
+ #two{
+  background-image: url("../assets/leaf.jpg");
+  background-repeat: no-repeat;
+  background-size:1600px 500px;
+
+}
+
+#three{
+  background-image: url("../assets/sky.jpg");
+  background-repeat: no-repeat;
+  background-size:1600px 700px;
+
+}
+
+#four{
+  background-image: url("../assets/color.jpg");
+  background-repeat: no-repeat;
+  background-size:1600px 700px;
+
+}
+
+#five{
+  background-image: url("../assets/red.jpg");
+  background-repeat: no-repeat;
+  background-size:1600px 750px;
+
+}
+
+#six{
+  background-image: url("../assets/green_line.jpg");
+  background-repeat: no-repeat;
+  background-size:1600px 700px;
+
+}
+
+
+#seven{
+  background-image: url("../assets/dark.jpg");
+  background-repeat: no-repeat;
+  background-size:1600px 900px;
+
 }
