@@ -10132,16 +10132,16 @@ header.masthead h1 {
 }
 
 #four{
-  background-image: url("../assets/color.jpg");
+  background-image: url("../assets/square.jpg");
   background-repeat: no-repeat;
   background-size:1600px 900px;
 
 }
 
 #five{
-  background-image: url("../assets/red.jpg");
+  background-image: url("../assets/leaf.jpg");
   background-repeat: no-repeat;
-  background-size:1600px 750px;
+  background-size:1600px 950px;
 
 }
 
@@ -10161,7 +10161,7 @@ header.masthead h1 {
 }
 
 #eight{
-  background-image: url("../assets/blackbord.jpg");
+  background-image: url("../assets/sky.jpg");
   background-repeat: no-repeat;
   background-size:1600px 900px;
 
